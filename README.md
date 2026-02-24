@@ -1,9 +1,10 @@
 
-<p  align="center">
 
-<img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Hi there!+It's+Menaka+A"  alt="Typing SVG"  />
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Hi+there!+It's+Menaka+A" />
 </p>
+
+
 
 <h3  align="center">Computer Science Engineering Graduate | Problem Solving, Backend Development, Clean Code, REST APIs  & Machine Learning Enthusiast</h3>
 
@@ -17,7 +18,7 @@
 
 </a>
 
-<a  href="linkedin.com/in/menaka28">
+<a  href="https://www.linkedin.com/in/menaka28/">
 
 <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"/>
 
