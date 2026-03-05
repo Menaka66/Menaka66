@@ -193,8 +193,6 @@ Analytical Thinking • Emotional Intelligence • Cross-Team Collaboration • 
 
 - **Couture Kart** — Couture Kart Flipkart Inspired E-Commerce Web Application
 
-- **Heart Disease Prediction** — Machine learning model using Naive Bayes Classifier
-
 ---
 
   
